@@ -1,0 +1,80 @@
+[
+  {
+    "id": "jetblue",
+    "title": "客机撞鸟后返航",
+    "exam": "2024-06",
+    "type": "短篇新闻 · 第二套",
+    "source": "https://cet4.koolearn.com/20240615/906277.html",
+    "audio": "audio/jetblue.wav",
+    "translationSource": "本项目补译",
+    "paragraphs": [
+      {
+        "id": "01",
+        "en": "A JetBlue Airlines flight from West Palm Beach to New York City was forced to turn around and land Sunday morning after the plane struck a bird. The flight from Palm Beach International Airport to LaGuardia Airport turned around just minutes after takeoff following the strike.",
+        "zh": "周日早晨，捷蓝航空一架从西棕榈滩飞往纽约市的客机撞上了一只鸟，被迫返航降落。这架从棕榈滩国际机场飞往拉瓜迪亚机场的飞机，起飞仅几分钟便因撞鸟而掉头。"
+      },
+      {
+        "id": "02",
+        "en": "No injuries were reported on the plane, and the flight took off once again, seven and a half hours after the first attempt.",
+        "zh": "机上没有人员受伤的报告。飞机在首次起飞七个半小时后再次起飞。"
+      },
+      {
+        "id": "03",
+        "en": "“It was like a split second of panic that resulted in this nervous reaction on the plane,” said passenger Brian Healy. “There was total quiet. And then there was relief when the plane came to a stop.” An email from JetBlue read, “Our team is working to accommodate customers on later flights.”",
+        "zh": "乘客布赖恩·希利说：“那一瞬间的惊慌让机上的人都紧张起来。机舱里一片安静。飞机停稳后，大家才松了一口气。”捷蓝航空在邮件中表示：“我们的团队正努力为乘客安排后续航班。”"
+      }
+    ]
+  },
+  {
+    "id": "zoo-snake",
+    "title": "毒蛇再次逃出动物园",
+    "exam": "2024-06",
+    "type": "短篇新闻 · 第二套",
+    "source": "https://cet4.koolearn.com/20240615/906277.html",
+    "audio": "audio/zoo-snake.wav",
+    "translationSource": "本项目补译",
+    "paragraphs": [
+      {
+        "id": "01",
+        "en": "A deadly snake, which had finally been tracked down after escaping a zoo, has slipped away for the second time. The poisonous snake forced the closure of the attraction last week when staff noticed the disappearance. After six days of desperate searching, he was eventually found and placed in a supposedly secure area.",
+        "zh": "一条危险的毒蛇逃出动物园后好不容易被找到，却又逃走了。上周工作人员发现它失踪后，动物园被迫关闭。经过六天的紧急搜寻，工作人员终于找到它，把它安置在一个以为很安全的地方。"
+      },
+      {
+        "id": "02",
+        "en": "But it seems the animal is no fan of the zoo, because yet again, he is out on the loose. The snake is a relative newcomer to the zoo, but has already been frustrating its staff. The staff believe he squeezed himself out of a gap located around new energy-saving bulbs installed inside the snake house.",
+        "zh": "不过，这条蛇似乎不喜欢动物园，因为它又跑出来了。它来动物园的时间不算长，却已经让工作人员很头疼。工作人员认为，它是从蛇馆内新装的节能灯泡周围的缝隙里挤出去的。"
+      },
+      {
+        "id": "03",
+        "en": "He was only found the first time around because staff brought in a special machine to trace him inside a wall opening. This kind of snake is one of the most deadly and poisonous in the wild, and they can range from three to five meters in length.",
+        "zh": "第一次能找到它，是因为工作人员用专用设备在墙上的一个洞里探测到了它。这类蛇是野外毒性最强、最危险的蛇之一，体长可达三至五米。"
+      }
+    ]
+  },
+  {
+    "id": "electric-bikes",
+    "title": "市中心的电动自行车",
+    "exam": "2024-06",
+    "type": "短篇新闻 · 第二套",
+    "source": "https://cet4.koolearn.com/20240615/906277.html",
+    "audio": "audio/electric-bikes.wav",
+    "translationSource": "本项目补译",
+    "paragraphs": [
+      {
+        "id": "01",
+        "en": "Electric bikes have been the craze in downtown Jacksonville since they were first introduced earlier this month as a one-year pilot program. But they're leading to safety concerns, mainly at night when some riders don't follow the rules of the road. As the night goes on, groups of riders are often seen traveling in just about every direction in the streets and on pedestrian paths.",
+        "zh": "杰克逊维尔市中心本月初启动了为期一年的电动自行车试点，此后骑车蔚然成风。但它也引发了安全担忧，主要是在夜间，有些骑行者不遵守交通规则。夜色渐深时，经常能看到成群的骑行者在街道和人行道上朝各个方向穿行。"
+      },
+      {
+        "id": "02",
+        "en": "That is increasing the probability of dangerous accidents. Electric bike riders have to follow all the same rules as you would if you were in an automobile. That means no running red lights or traveling in the opposite direction of traffic on one-way streets.",
+        "zh": "这增加了发生严重事故的可能性。骑电动自行车必须遵守和开汽车时一样的交通规则，也就是说，不能闯红灯，也不能在单行道上逆行。"
+      },
+      {
+        "id": "03",
+        "en": "City Council Member LeAnna Cumber was instrumental in introducing the electric bikes to Jacksonville as a way to bring new life into downtown. And she's aware of the concerns. Cumber said people can have fun, but both drivers and riders are responsible for paying attention while on the road. And never assume the driver is going to stop or see you.",
+        "zh": "市议员莉安娜·坎伯在推动杰克逊维尔引入电动自行车方面发挥了重要作用，希望借此给市中心带来活力。她也了解这些担忧。坎伯说，大家可以享受骑行，但无论是开车还是骑车，都有责任留意路况。千万别想当然地认为司机会停车，或一定能看见你。"
+      }
+    ]
+  }
+]
